@@ -41,6 +41,7 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   width: 400px;
+  
   color: black;
 }
 
@@ -52,6 +53,8 @@ body {
 .form-container label {
   display: block;
   margin: 10px 0 5px;
+
+  
 }
 
 .form-container input {
@@ -82,6 +85,6 @@ footer {
   color: #ffffff;
   width: 100%;
   height: 100px;
-  background-color: #979090;
+  background-color: #635f5f;
   border: 1px solid #000;
 }
